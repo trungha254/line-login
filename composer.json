@@ -1,0 +1,14 @@
+{
+	"name": "line/loginapi",
+	"description": "Small and easy Line library for PHP",
+	"keywords": ["line", "oauth"],
+	"homepage": "https://github.com/trungha254/line-login",
+	"license": ["BSD-3-Clause"],
+	"require": {
+		"php": ">=5.6.0",
+		"ext-curl": "*"
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
