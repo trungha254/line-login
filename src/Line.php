@@ -1,6 +1,6 @@
 <?php
 
-namespace Line\ApiLogin;
+namespace PHPLine\ApiLogin;
 class Line
 {
     public function getUserInfo($access_token) {
