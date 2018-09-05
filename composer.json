@@ -1,5 +1,5 @@
 {
-	"name": "line/loginapi",
+	"name": "php-line/loginapi",
 	"description": "Small and easy Line library for PHP",
 	"keywords": ["line", "oauth"],
 	"homepage": "https://github.com/trungha254/line-login",
